@@ -1,6 +1,6 @@
-# Responsive Landing Page
+ Responsive Landing Page
 
-## Project Overview
+<br>📌## Project Overview
 This project is a **responsive landing page** designed for Prodigy Infotech. It features a modern, user-friendly design that adapts to different screen sizes. The website consists of multiple sections such as **Home, About, Services, and Contact**, offering seamless navigation and an interactive experience.
 
 ## Features
