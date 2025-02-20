@@ -62,4 +62,6 @@ project-folder/
 - Provide clear and structured information about Prodigy Infotech
 
 This project serves as a great example of a modern, responsive web design that follows best UI/UX practices.
+# Project link:
+  https://github.com/sumagudipalli/Prodigy-Infotech
 
