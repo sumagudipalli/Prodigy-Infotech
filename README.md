@@ -50,5 +50,4 @@ This landing page serves as a practical example of how to build a responsive, mu
 * Project link :
 
 ##  Screenshot of website:
-
-![Screenshot (6)]<img width="956" alt="output1" src="https://github.com/user-attachments/assets/f650616a-4fb9-41d5-84f1-a6526a5ec645">
+  
